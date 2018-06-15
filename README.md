@@ -46,6 +46,11 @@ Entrevista
 
 ##### 2) Sketch de la solución
 
+![sketch1](https://user-images.githubusercontent.com/39319360/41475032-402c6942-7083-11e8-913d-2e3f6e34a5b2.png)
+
+![sketch2](https://user-images.githubusercontent.com/39319360/41475039-4659dc8c-7083-11e8-951d-caca9201eaa6.png)
+
+![sketch3](https://user-images.githubusercontent.com/39319360/41475051-4a8f7a78-7083-11e8-8d0c-cc995ea903f2.png)
 
 #### Diseño de la Interfaz de Usuario (prototipo de alta fidelidad)
 
