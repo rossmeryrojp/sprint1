@@ -40,6 +40,12 @@ Entrevista
 
 #### Sketch de la solución (prototipo de baja fidelidad)
 
+##### 1) Flujograma
+
+
+##### 2) Sketch de la solución
+
+
 #### Diseño de la Interfaz de Usuario (prototipo de alta fidelidad)
 
 Utilizamos Figma
