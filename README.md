@@ -34,7 +34,7 @@ Exposición de requerimientos por parte del usuario
 
 ![exposicion_usuario](https://user-images.githubusercontent.com/39319360/41465506-05c34cb8-7064-11e8-94e3-9ba3cc33aa01.jpg)
 
-Nos acercamos a los usuarios por medio de entrevista.
+Entrevista.
 
 ![img_4304](https://user-images.githubusercontent.com/39319360/41465550-3756f45a-7064-11e8-92aa-1df625d956fb.JPG)
 
