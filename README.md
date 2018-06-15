@@ -6,7 +6,7 @@
 ### Organización
 Tablero Kanban
 
-
+![img_4336](https://user-images.githubusercontent.com/39319360/41464895-8d1bf6d6-7061-11e8-9c39-752d1027b8ae.JPG)
 
 ### User Experience Design
 
