@@ -5,7 +5,7 @@
 *
 
 ### User Experience Design
-Nos carcamos a los usuarios por medio de entrevistas
+Nos acercamos a los usuarios por medio de entrevistas
 
 ![img_4304](https://user-images.githubusercontent.com/39319360/41464688-c9ac4066-7060-11e8-9785-4e77c82e2714.JPG)
 
