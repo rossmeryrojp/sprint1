@@ -42,6 +42,7 @@ Entrevista
 
 ##### 1) Flujograma
 
+![flujograma](https://user-images.githubusercontent.com/39319360/41474458-aa1ac72e-7081-11e8-8c47-71aef8086104.jpg)
 
 ##### 2) Sketch de la solución
 
